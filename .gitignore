@@ -8,3 +8,7 @@
 
 # Node.js ignore
 node_modules/
+
+# Rust ignore
+target/
+Cargo.lock
