@@ -5,3 +5,11 @@ edition = "2021"
 
 [dependencies]
 colored = "2.1.0"
+
+[[bin]]
+name = "part_a"
+path = "src/part_a.rs"
+
+[[bin]]
+name = "part_b"
+path = "src/part_b.rs"
